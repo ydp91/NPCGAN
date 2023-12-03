@@ -1,2 +1,4 @@
 /model/
 /.svn/
+/__pycache__/
+/.idea/
